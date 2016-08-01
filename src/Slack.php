@@ -1,6 +1,6 @@
 <?php
 
-namespace CJSDevelopment;
+namespace SuperBuddy;
 
 use GuzzleHttp\Client;
 

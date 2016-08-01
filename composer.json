@@ -1,5 +1,5 @@
 {
-    "name": "cjsdevelopment/slack",
+    "name": "superbuddy/slack",
     "description": "A Laravel package to post Slack Message",
     "type": "library",
     "license": "MIT",
@@ -13,11 +13,11 @@
     
     "autoload": {
       "psr-4": {
-        "CJSDevelopment\\": "src/"
+        "SuperBuddy\\": "src/"
       }
     },
     "require" : {
-      "guzzlehttp/guzzle": "~5.0"
+      "guzzlehttp/guzzle": "~6.0"
 
     }
 }
